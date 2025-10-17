@@ -1,0 +1,4 @@
+debugpy==1.8.16
+jupyterlab==4.4.7
+numpy==2.3.2
+pandas==2.3.2
